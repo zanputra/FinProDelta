@@ -206,7 +206,7 @@ Customer behavior analysis adalah analisa untuk mengetahui karakteristik dari ta
 
 
 Visualisasi dashboard yang telah dibuat dapat dilihat sebagai berikut:
----
+
 https://public.tableau.com/app/profile/iqbal.latief/viz/shared/NS9DK2DKZ
 ---
 
