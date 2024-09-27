@@ -206,8 +206,8 @@ Customer behavior analysis adalah analisa untuk mengetahui karakteristik dari ta
 
 
 Visualisasi dashboard yang telah dibuat dapat dilihat sebagai berikut:
-
 https://public.tableau.com/app/profile/iqbal.latief/viz/shared/NS9DK2DKZ
+
 ---
 
 # **Feature Selection**
@@ -221,7 +221,6 @@ https://public.tableau.com/app/profile/iqbal.latief/viz/shared/NS9DK2DKZ
 Seluruh fitur kategorik akan digunakan dalam tahapan pembuatan model.
 
 Dataset yang telah dilakukan cleaning dan digunakan untuk pembuatan model prediksi adalah:
-
 https://github.com/zanputra/FinProDelta/blob/main/mainData.csv
 https://github.com/zanputra/FinProDelta/blob/main/mainData.xlsx
 
@@ -282,8 +281,8 @@ Pada tahap ini kita akan mencoba untuk menerapkan hasil prediksi kita ke data ya
 ## Save Model
 ---
 Model terpilih yang telah disimpan:
-
 https://github.com/zanputra/FinProDelta/blob/main/best_model.pkl
+
 ---
 
 # **Conclusion & Recommendation**
