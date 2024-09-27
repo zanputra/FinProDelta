@@ -206,9 +206,8 @@ Customer behavior analysis adalah analisa untuk mengetahui karakteristik dari ta
 
 
 Visualisasi dashboard yang telah dibuat dapat dilihat sebagai berikut:
-
+---
 https://public.tableau.com/app/profile/iqbal.latief/viz/shared/NS9DK2DKZ
-
 ---
 
 # **Feature Selection**
@@ -281,7 +280,9 @@ Pada tahapan ini dilakukan analisis SHAP untuk menentukan fitur yang paling berp
 Pada tahap ini kita akan mencoba untuk menerapkan hasil prediksi kita ke data yang sudah diprediksi dan akan dibuatkan simulasi profit dan juga opporunity cost yang dihasilkan. 
 
 ## Save Model
+---
 Model terpilih yang telah disimpan:
+
 https://github.com/zanputra/FinProDelta/blob/main/best_model.pkl
 ---
 
