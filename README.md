@@ -135,8 +135,6 @@ Target :
 Terdapat beberapa kolom dengan missing value seperti pada kolom ***children, country, agent, dan company***
 - Kita akan mengisi kolom ***children dan country*** dengan pendekatan statistik yaitu dengan mencari nilai yang paling sering muncul (modus).
 - Sedangkan untuk kolom ***agent dan juga company*** kita akan drop kedua kolom tersebut karena kolom tersebut adalah keterangan nomor ID agen atau perusahaan yang terafiliasi dengan hotel untuk keperluan marketing dalam mencari tamu hotel dan tidak akan kita gunakan dalam proses analisa.
-
-
 - Value "Undefined" pada kolom ***meal*** dapat dianggap missing value --> perlu dilakukan pengisian menggunakan modus.
 - Value "Undefined" pada kolom ***distribution_channel*** dapat dianggap missing value --> perlu dilakukan pengisian menggunakan modus.
 - Value "Undefined" pada kolom ***market_segment*** dapat dianggap missing value --> perlu dilakukan pengisian menggunakan modus.
@@ -271,9 +269,6 @@ Pada tahapan ini dilakukan perbandingan hasil prediksi dengan model terpilih den
 
 ## Feature Importance (SHAP)
 Pada tahapan ini dilakukan analisis SHAP untuk menentukan fitur yang paling berpengaruh terhadap hasil prediksi.
-
-## Feature Importance
-- The features that most influence 'Price' are 'Options', 'Make','Engine-Size', 'Origin', and 'Type'.
 
 ## Impact of Model (Simulasi Finansial)
 Pada tahap ini kita akan mencoba untuk menerapkan hasil prediksi kita ke data yang sudah diprediksi dan akan dibuatkan simulasi profit dan juga opporunity cost yang dihasilkan. 
